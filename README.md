@@ -111,7 +111,7 @@ Some possible improvements for this project include:
 
 ## 👩‍💻 Author
 
-**Niharika Kanujia**
+**Niharika**
 
 GitHub: [@nihaaarika](https://github.com/nihaaarika)
 
