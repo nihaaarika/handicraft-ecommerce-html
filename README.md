@@ -60,3 +60,61 @@ handicraft-ecommerce-html/
 ├── walldecor 3.html
 ├── walldecor 4.html
 └── walldecor frameset.html
+```
+
+## 🚀 How to Run
+
+Since this is a static HTML project, you don't need to install any dependencies.
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/nihaaarika/handicraft-ecommerce-html.git
+```
+
+### 2. Open the project
+
+Open the downloaded folder in your code editor.
+
+### 3. Run the website
+
+Open `presentation.html` in your web browser.
+
+You can also use **Live Server** in Visual Studio Code for easier development.
+
+## 🎯 Learning Objectives
+
+This project was created to practice:
+
+- HTML fundamentals
+- Creating multiple web pages
+- Linking HTML pages together
+- Working with images
+- Creating forms
+- Creating basic e-commerce layouts
+- Using HTML framesets
+- Organizing a multi-page website
+
+## 🔮 Future Improvements
+
+Some possible improvements for this project include:
+
+- Add CSS for a modern and responsive design
+- Replace framesets with modern HTML layouts
+- Add JavaScript functionality
+- Add a shopping cart
+- Add product search and filtering
+- Add a backend and database
+- Implement real user authentication
+- Add a real payment gateway
+- Make the website mobile-friendly
+
+## 👩‍💻 Author
+
+**Niharika Kanujia**
+
+GitHub: [@nihaaarika](https://github.com/nihaaarika)
+
+## 📄 License
+
+This project was created for **educational and learning purposes**.
