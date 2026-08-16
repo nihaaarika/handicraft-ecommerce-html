@@ -8,7 +8,7 @@ The **Handicraft E-Commerce Website** is a beginner-friendly web development pro
 
 The website contains different sections for handicraft products such as **kitchen items, wall decorations, torans, and other decorative products**.
 
-The project uses a **frameset-based layout** to connect different sections of the website.
+The project uses a **frameset-based layout** to connect different sections of the website
 
 ## ✨ Features
 
